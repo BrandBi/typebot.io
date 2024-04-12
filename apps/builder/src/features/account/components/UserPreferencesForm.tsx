@@ -27,6 +27,7 @@ const localeHumanReadable = {
   ro: 'Română',
   es: 'Español',
   it: 'Italiano',
+  ru: 'Russian',
 } as const
 
 export const UserPreferencesForm = () => {
