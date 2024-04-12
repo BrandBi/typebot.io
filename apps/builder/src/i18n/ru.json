@@ -1,0 +1,20 @@
+{
+ 
+  "workspace.dropdown.logoutButton.label": "Выход",
+  "workspace.dropdown.newButton.label": "Новая пространство",
+  "workspace.membersList.inviteButton.label": "Пригласить",
+  "workspace.membersList.inviteInput.placeholder": "colleague@company.com",
+  "workspace.membersList.title": "Участники",
+  "workspace.membersList.unlockBanner.label": "Обновите свой план, чтобы работать с большим количеством членов команды, и откройте для себя потрясающие возможности",
+  "workspace.settings.deleteButton.confirmMessage": "Вы уверены, что хотите удалить {workspaceName} workspace? All its folders, typebots and results will be deleted forever.",
+  "workspace.settings.deleteButton.label": "Удалить рабочее пространство",
+  "workspace.settings.icon.title": "Иконка",
+  "workspace.settings.modal.menu.billingAndUsage.label": "Выставление счетов и использование",
+  "workspace.settings.modal.menu.members.label": "Участники",
+  "workspace.settings.modal.menu.myAccount.label": "Мой аккаунт",
+  "workspace.settings.modal.menu.preferences.label": "Настройки",
+  "workspace.settings.modal.menu.settings.label": "Установки",
+  "workspace.settings.modal.menu.version.label": "Версия: {version}",
+  "workspace.settings.modal.menu.workspace.label": "Пространство",
+  "workspace.settings.name.label": "Имя:"
+}
