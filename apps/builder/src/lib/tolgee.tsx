@@ -8,7 +8,7 @@ import ptBR from '../i18n/pt-BR.json'
 import es from '../i18n/es.json'
 import ro from '../i18n/ro.json'
 import it from '../i18n/it.json'
-import it from '../i18n/ru.json'
+import ru from '../i18n/ru.json'
 import { env } from '@typebot.io/env'
 
 export const tolgee = Tolgee()
